@@ -1,0 +1,13 @@
+.taskApp {
+  /* Sample */
+  margin: auto;
+  width: 50%;
+}
+.header{
+  margin-left: 70px;
+}
+
+.tasktop {
+  background-color: yellow;
+  padding: 20px;
+}
